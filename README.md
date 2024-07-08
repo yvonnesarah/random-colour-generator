@@ -6,6 +6,11 @@ The Random Colour Generator Web App is a simple and fun application designed to 
 ## Prerequisites
 N/A
 
+## Features
+* Display the color in a visual box.
+* Show the hex code of the generated color.
+* Responsive design for mobile and desktop devices.
+
 ## Technologies Used
 Built with:
 * HTML
@@ -16,7 +21,9 @@ Built with:
 N/A
 
 ## Usage
-N/A
+* Open the Random Colour Generator web application in your browser.
+* View the generated colour displayed in the color box.
+* Use the generated colours and hex codes in your design or development projects.
 
 ## Project Link
 Application can can be viewed here: 
