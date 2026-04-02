@@ -6,7 +6,7 @@ The Random Colour Generator is a simple, fun, and interactive web app that gener
 ## 🛠 Prerequisites
 No specific prerequisites are required to use or run the web app.
 
-## 📋 Criteria
+## 📋 Features
 * Color Display: The generated color is shown in a visual box, making it easy to identify.
 * Hex Code: Each color’s hex code is displayed alongside the color itself.
 * Responsive Layout: The web app adapts to various screen sizes, displaying the colors in a grid format with dynamic column adjustments.
